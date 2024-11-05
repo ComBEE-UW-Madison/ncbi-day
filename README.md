@@ -1,3 +1,26 @@
+# NCBI Workshop Day
+
+## Description:
+For this Month's ComBEE meeting, we will be having a NCBI themed day. The National Center for Biotechnology Information (NCBI) is a branch of the National Institute of Health (NIH). It is website where people can submit data, browse data, download data, and even analyze data. It is commonly and frequently used by researchers across the globe. 
+Today we will look at how the NCBI website is organized, and explore some of its main datarepositories. 
+
+## Learning Outcomes
+TBD
+
+## Activities
+Through some follow-along exercices were will learn:
+1) Download genome data using the NCBI API.
+2) Install the `ncbi-datasets` command line tools, a suite that allows users to download various data and metadata (https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/)
+3) Install the command-line `ncbi-blast` tool (https://blast.ncbi.nlm.nih.gov/doc/blast-help/downloadblastdata.html) to perform a blast search
+4) Run an example blast search to compare genomic sequences
+
+
+
+
+## Authors:
+github: @patriciatran
+
+-----
 # The Carpentries Workbench Template Markdown Lesson
 
 This lesson is a template lesson that uses [The Carpentries Workbench][workbench]. 
